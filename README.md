@@ -1,18 +1,51 @@
-## Getting Started
+# Bootcamp Santander - Estudos de Programação
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório é dedicado aos estudos realizados durante o Bootcamp Santander, oferecido pela Digital Innovation One (DIO). O objetivo é fornecer um espaço organizado para aprender e revisar os conceitos fundamentais de programação.
 
-## Folder Structure
+## Conteúdo
 
-The workspace contains two folders by default, where:
+Durante o curso, exploraremos os seguintes tópicos:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### Anatomia de Classes
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Conceitos fundamentais de classes em linguagens de programação.
+- Estruturação de classes, incluindo propriedades e métodos.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+### Tipos e Variáveis
 
-## Dependency Management
+- Compreensão dos diferentes tipos de dados disponíveis em linguagens de programação.
+- Declaração e uso eficaz de variáveis para armazenar informações.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Operadores
+
+- Exploração dos operadores aritméticos, lógicos e relacionais.
+- Utilização de operadores para manipulação e comparação de dados.
+
+### Documentação (Doc)
+
+- Importância da documentação no desenvolvimento de software.
+- Práticas recomendadas para escrever documentação clara e concisa.
+
+### Métodos
+
+- Conceito de métodos e sua importância na modularidade do código.
+- Implementação e chamada de métodos para realizar tarefas específicas.
+
+### Escopo
+
+- Entendimento do escopo de variáveis e métodos em diferentes contextos.
+- Gerenciamento eficaz do escopo para evitar conflitos e erros.
+
+### Terminal e Argumentos
+
+- Utilização do terminal para executar comandos e scripts.
+- Passagem e manipulação de argumentos pela linha de comando.
+
+## Contribuição
+
+Sinta-se à vontade para contribuir com este repositório adicionando exemplos de código, correções ou melhorias nos materiais existentes. Todas as contribuições são bem-vindas!
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
