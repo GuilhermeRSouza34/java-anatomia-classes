@@ -1,6 +1,7 @@
 package edu.guilherme.tipodevariaveis;
 
 public class TiposVariaveis {
+    @SuppressWarnings("unused")
     public static void main(String[] args) throws Exception {
         double salarioMinimo = 1500;
 
@@ -12,6 +13,7 @@ public class TiposVariaveis {
         numero = 10;
         System.out.print(numero);
 
+        @SuppressWarnings("unused")
         final double VALORDEPI = 3.14;
     }
 }

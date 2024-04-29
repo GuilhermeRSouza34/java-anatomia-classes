@@ -1,8 +1,12 @@
 package edu.guilherme.operadores;
 
 public class Operadores {
+    /**
+     * @param args
+     */
     public static void main(String[] args) {
         // Exemplo de operador de atribuição
+        @SuppressWarnings("unused")
         int a = 5;
 
         // Exemplo de operador de adição
