@@ -1,0 +1,12 @@
+O escopo em Java refere-se à visibilidade e acessibilidade de variáveis, métodos e classes em diferentes partes do código. Existem três principais níveis de escopo em Java:
+
+Escopo de Classe (Escopo Global): Variáveis e métodos declarados diretamente em uma classe têm um escopo que abrange toda a classe. Isso significa que eles podem ser acessados por qualquer método dentro da classe.
+Escopo de Método (Escopo Local): Variáveis declaradas dentro de um método têm um escopo que se limita ao próprio método. Elas não podem ser acessadas por outros métodos na classe.
+Escopo de Bloco: Um bloco de código é definido entre chaves {} e pode conter declarações de variáveis. As variáveis declaradas dentro de um bloco têm escopo apenas dentro desse bloco.
+O uso de escopo é fundamental para garantir a organização, modularidade e segurança do código em Java. Ele ajuda a evitar conflitos de nomes, encapsular dados e promover a reutilização de código.
+
+O escopo em Java refere-se à visibilidade e acessibilidade de variáveis, métodos e classes em diferentes partes do código. Existem três principais níveis de escopo em Java:
+
+Escopo de Classe (Escopo Global): Variáveis e métodos declarados diretamente em uma classe têm um escopo que abrange toda a classe. Isso significa que eles podem ser acessados por qualquer método dentro da classe.
+Escopo de Método (Escopo Local): Variáveis declaradas dentro de um método têm um escopo que se limita ao próprio método. Elas não podem ser acessadas por outros métodos na classe.
+Escopo de Bloco: Um bloco de código é definido entre chaves {} e pode conter declarações de variáveis. As variáveis declaradas dentro de um bloco têm escopo apenas dentro desse bloco.
