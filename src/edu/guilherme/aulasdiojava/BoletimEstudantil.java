@@ -1,3 +1,5 @@
+package edu.guilherme.aulasdiojava;
+
 public class BoletimEstudantil {
     public static void main(String[] args) {
         int mediaFinal = 6;
