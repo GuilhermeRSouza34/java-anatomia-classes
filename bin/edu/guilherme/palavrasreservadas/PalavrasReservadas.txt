@@ -1,0 +1,30 @@
+As palavras reservadas em Java são termos que têm significados específicos na linguagem e não podem ser utilizados como nomes de variáveis, métodos ou classes. Elas são parte da sintaxe da linguagem e desempenham papéis fundamentais na estruturação e execução do código Java.
+
+Algumas das palavras reservadas mais comuns em Java incluem:
+
+public: Utilizada para declarar que um método, variável ou classe é acessível a partir de qualquer parte do programa.
+private: Indica que um método, variável ou classe é acessível apenas dentro da classe onde foi declarada.
+class: Utilizada para definir uma classe em Java.
+static: Indica que um método ou variável pertence à classe em vez de instâncias individuais da classe.
+void: Indica que um método não retorna nenhum valor.
+return: Utilizada para sair de um método e retornar um valor opcional.
+if, else: Utilizadas para criar estruturas condicionais em Java.
+for, while: Utilizadas para criar loops em Java.
+break, continue: Utilizadas para controlar o fluxo de execução em loops.
+switch, case: Utilizadas para criar estruturas de seleção em Java.
+Estas são apenas algumas das palavras reservadas em Java. É importante reconhecê-las e utilizá-las corretamente para garantir que o código seja sintaticamente correto e compreensível.
+
+As palavras reservadas em Java são termos que têm significados específicos na linguagem e não podem ser utilizados como nomes de variáveis, métodos ou classes. Elas são parte da sintaxe da linguagem e desempenham papéis fundamentais na estruturação e execução do código Java.
+
+Algumas das palavras reservadas mais comuns em Java incluem:
+
+public: Utilizada para declarar que um método, variável ou classe é acessível a partir de qualquer parte do programa.
+private: Indica que um método, variável ou classe é acessível apenas dentro da classe onde foi declarada.
+class: Utilizada para definir uma classe em Java.
+static: Indica que um método ou variável pertence à classe em vez de instâncias individuais da classe.
+void: Indica que um método não retorna nenhum valor.
+return: Utilizada para sair de um método e retornar um valor opcional.
+if, else: Utilizadas para criar estruturas condicionais em Java.
+for, while: Utilizadas para criar loops em Java.
+break, continue: Utilizadas para controlar o fluxo de execução em loops.
+switch, case: Utilizadas para criar estruturas de seleção em Java.
